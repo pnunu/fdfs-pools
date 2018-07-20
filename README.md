@@ -2,6 +2,16 @@
 
 # 原作者代码提交于gitee   地址： https://gitee.com/qiujw/fdfs-pools
 
+
+# fastdfs-client
+
+https://github.com/pnunu/fastdfs-client-java.git
+
+# fastdfs 安装教程
+
+http://pnunu.cn/posts/20180720-fastfds-install
+
+
 #### 项目介绍
 fastdfs 连接池
 
