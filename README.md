@@ -1,5 +1,7 @@
 # fdfs-pools
 
+# 原作者代码提交于gitee   地址： https://gitee.com/qiujw/fdfs-pools
+
 #### 项目介绍
 fastdfs 连接池
 
